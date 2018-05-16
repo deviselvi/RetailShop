@@ -33,3 +33,5 @@ Notes:
 3. Added Custom exception in case of exception
 4. Followed Object oriented concepts
 5. Added Testcases
+6. UML diagram is available @ https://go.gliffy.com/go/publish/12655357
+
